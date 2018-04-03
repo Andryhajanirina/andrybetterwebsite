@@ -1,0 +1,43 @@
+body{
+    margin:40px auto;
+    max-width:650px;
+    line-height:1.6;
+    font-size:18px;
+    color:#444;
+    padding:0 10px;
+    /* background-color: aquamarine; */
+}
+
+footer{
+    background-color: #444;
+    color:beige;
+    text-align: right;
+    padding-right: 5px;
+}
+footer > a{
+    color:beige;    
+}
+
+footer > a:hover{
+    color:rgb(241, 133, 10);  
+}
+
+h1,h2,h3{
+    line-height:1.2
+}
+
+a{
+    text-decoration: none;
+    color: rgb(27, 201, 27);
+    font-weight: bold;
+}
+
+a:hover{
+    color: crimson;
+}
+
+code{
+    background-color: rgb(58, 55, 55);
+    color:beige;
+    font-weight: lighter;
+}
